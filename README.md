@@ -92,3 +92,8 @@ A comprehensive RESTful API for managing hotels, rooms, bookings, guests, and mo
 ### 🔔 Webhooks
 
 - `POST /webhook/payment` – Handle payment capture
+
+  ---
+  ## Schema
+  ![svgviewer-output (1)](https://github.com/user-attachments/assets/d0c2c057-cbb4-435c-99b0-3eda24fbf0d4)
+
